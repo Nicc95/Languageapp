@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baby First Words</string>
+    <string name="image_description">Word image</string>
+    <string name="previous_button">Previous word</string>
+    <string name="next_button">Next word</string>
+    <string name="english_button">English language</string>
+    <string name="norwegian_button">Norwegian language</string>
+
+    <!-- Language codes -->
+    <string name="lang_code_english" translatable="false">en</string>
+    <string name="lang_code_norwegian" translatable="false">no</string>
+</resources>
